@@ -224,7 +224,7 @@ msgstr "Publicar comentario"
 
 #: footer.php:71
 msgid "Page load link"
-msgstr ""
+msgstr "Enlace de carga de la página"
 
 #: header.php:42
 msgid "Skip to content"
@@ -234,41 +234,41 @@ msgstr "Saltar al contenido"
 #. translators: %s: user name
 #: includes/admin-screens/dashboard.php:51 includes/admin-screens/setup.php:36
 msgid "Welcome To Avada, %s!"
-msgstr ""
+msgstr "¡Bienvenido a Avada, %s!"
 
 #: includes/admin-screens/dashboard.php:52
 msgid ""
 "Launch the Avada setup wizard, the easiest way to get your website started."
-msgstr ""
+msgstr "Inicie el asistente de configuración de Avada, la forma más fácil de iniciar su sitio web."
 
 #. translators: %s: The username.
 #: includes/admin-screens/dashboard.php:55
 msgid "Hello %s!"
-msgstr ""
+msgstr "Hola %s!"
 
 #: includes/admin-screens/dashboard.php:56
 msgid "Welcome back to the Avada dashboard. Take a look at our latest update."
-msgstr ""
+msgstr "Bienvenido de nuevo al tablero de Avada. Echa un vistazo a nuestra última actualización."
 
 #. translators: %s: version number.
 #: includes/admin-screens/dashboard.php:68
 msgid "What’s New In Avada %s"
-msgstr ""
+msgstr "Novedades en Avada %s"
 
 #: includes/admin-screens/dashboard.php:71
 #: includes/lib/inc/fusion-app/templates/front-end-toolbar.php:112
 msgid "Get Started"
-msgstr ""
+msgstr "Empezar"
 
 #: includes/admin-screens/dashboard.php:77
 #: includes/admin-screens/dashboard.php:80 includes/admin-screens/setup.php:40
 #: includes/admin-screens/setup.php:74 includes/admin-screens/setup.php:79
 msgid "Avada Welcome Image"
-msgstr ""
+msgstr "Imagen de bienvenida de Avada"
 
 #: includes/admin-screens/dashboard.php:91
 msgid "Avada Resources"
-msgstr ""
+msgstr "Recursos de Avada"
 
 # @ Avada
 #: includes/admin-screens/dashboard.php:94
@@ -279,21 +279,21 @@ msgstr "Recomendado"
 #. translators: Item price.
 #: includes/admin-screens/dashboard.php:106
 msgid "Only %s - Buy Now"
-msgstr ""
+msgstr "Solo %s - Comprar ahora"
 
 #. translators: Item price.
 #: includes/admin-screens/dashboard.php:110
 msgid "On Sale - Only %s"
-msgstr ""
+msgstr "En oferta: solo %s"
 
 #: includes/admin-screens/dashboard.php:115
 #: includes/admin-screens/dashboard.php:128
 msgid "Buy Another License"
-msgstr ""
+msgstr "Comprar otra licencia"
 
 #: includes/admin-screens/dashboard.php:121
 msgid "Sale"
-msgstr ""
+msgstr "Venta"
 
 #: includes/admin-screens/dashboard.php:124
 #: includes/class-avada-migrate.php:387
@@ -306,39 +306,43 @@ msgid ""
 "Buy another license of the Avada Website Builder for your next project. "
 "Streamline your work and save time for the more important things."
 msgstr ""
+"Compre otra licencia de Avada Website Builder para su próximo proyecto."
+"Optimice su trabajo y ahorre tiempo para las cosas más importantes."
 
 #: includes/admin-screens/dashboard.php:138
 #: includes/admin-screens/dashboard.php:156
 msgid "Discount"
-msgstr ""
+msgstr "Descuento"
 
 #: includes/admin-screens/dashboard.php:141
 #: includes/admin-screens/dashboard.php:159
 msgid "WPEngine Logo"
-msgstr ""
+msgstr "Logotipo de WPEngine"
 
 #: includes/admin-screens/dashboard.php:145
 msgid "Avada Hosting"
-msgstr ""
+msgstr "Alojamiento Avada"
 
 #: includes/admin-screens/dashboard.php:148
 msgid ""
 "Launch your site in seconds on WP Engine who offer optimized hosting for the "
 "Avada Website Builder."
 msgstr ""
+"Inicie su sitio en segundos en WP Engine que ofrece alojamiento optimizado para el"
+"Creador de sitios web de Avada."
 
 #: includes/admin-screens/dashboard.php:149
 msgid "Enjoy 4 months free!"
-msgstr ""
+msgstr "¡Disfruta de 4 meses gratis!"
 
 #: includes/admin-screens/dashboard.php:152
 #: includes/admin-screens/dashboard.php:169
 msgid "Get Special Offer"
-msgstr ""
+msgstr "Obtener oferta especial"
 
 #: includes/admin-screens/dashboard.php:163
 msgid "Avada Special Hosting"
-msgstr ""
+msgstr "Alojamiento especial de Avada"
 
 #: includes/admin-screens/dashboard.php:166
 msgid ""
@@ -346,40 +350,45 @@ msgid ""
 "hosting. Sign up and have Avada installed and activated for you with one "
 "click."
 msgstr ""
+"Nos hemos asociado con SiteGround para ofrecerte un servicio completo de WordPress"
+"hosting. Regístrese y tenga Avada instalado y activado para usted con hacer "
+"un clic."
 
 #: includes/admin-screens/dashboard.php:176
 msgid "Codeable Logo"
-msgstr ""
+msgstr "Logotipo codificable"
 
 #: includes/admin-screens/dashboard.php:180
 msgid "Avada Customization"
-msgstr ""
+msgstr "Personalización de Avada"
 
 #: includes/admin-screens/dashboard.php:183
 msgid ""
 "We work with Codeable who offers amazing customization services. They are "
 "equipped to handle both large and small customization jobs."
 msgstr ""
+"Trabajamos con Codeable, que ofrece increíbles servicios de personalización. Estan "
+"equipados para manejar trabajos de personalización grandes y pequeños".
 
 #: includes/admin-screens/dashboard.php:186
 msgid "Get Free Quote"
-msgstr ""
+msgstr "Obtenga una cotización gratis"
 
 #: includes/admin-screens/dashboard.php:194
 msgid "Avada Integrations"
-msgstr ""
+msgstr "Integraciones Avada"
 
 #: includes/admin-screens/dashboard.php:197
 msgid "Premium Additions"
-msgstr ""
+msgstr "Adiciones Premium"
 
 #: includes/admin-screens/dashboard.php:205
 msgid "HubSpot Logo"
-msgstr ""
+msgstr "Logotipo de HubSpot"
 
 #: includes/admin-screens/dashboard.php:209
 msgid "CRM, Marketing & Sales"
-msgstr ""
+msgstr "CRM, marketing y ventas"
 
 #: includes/admin-screens/dashboard.php:212
 msgid ""
@@ -24228,11 +24237,11 @@ msgstr ""
 
 #: includes/options/woocommerce.php:314
 msgid "WooCommerce Product Quick View"
-msgstr ""
+msgstr "Vista rápida del producto WooCommerce"
 
 #: includes/options/woocommerce.php:315
 msgid "Turn on to enable product quick view for products."
-msgstr ""
+msgstr "Actívelo para habilitar la vista rápida de productos para productos."
 
 #: includes/options/woocommerce.php:321
 msgid "WooCommerce Product Variation Swatches"
@@ -25018,23 +25027,23 @@ msgstr "Actualizar carrito"
 
 #: templates/wc-proceed-to-checkout.php:18
 msgid "Proceed to checkout"
-msgstr ""
+msgstr "Proceder al pago"
 
 #: templates/wc-quick-view-container.php:21
 msgid "Close product quick view"
-msgstr ""
+msgstr "Cerrar vista rápida del producto"
 
 #: templates/wc-quick-view-product.php:60
 msgid "Awaiting product image"
-msgstr ""
+msgstr "Esperando la imagen del producto"
 
 #: templates/wc-quick-view-product.php:84
 msgid "View Details"
-msgstr ""
+msgstr "Ver detalles"
 
 #: templates/wc-show-details-button.php:25
 msgid "Quick View"
-msgstr ""
+msgstr "Vista rápida"
 
 #. translators: %1$s: Username. %2$s: Username (same as %1$s). %3$s: "Sign Out"
 #. link.
